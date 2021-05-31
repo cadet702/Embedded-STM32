@@ -1,0 +1,13 @@
+# All files except .bat files should use
+# unix-style line endings
+
+*     text eol=lf
+*.bat text eol=crlf
+
+# Images should be treated as binary
+# (binary is a macro for -text -diff)
+
+*.png  binary
+*.jpeg binary
+*.jpg  binary
+*.gif  binary
