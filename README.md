@@ -5,9 +5,9 @@ This is a place for the Embedded.fm book club to colaborate and learn together.
 ## Repo Structure Guide
 
 ### Top-level folders currently include:
-* **[Books]()** - For code directly related to chapers and exercises in the books we read.
-* **[Playground]()** - For individuals to create their own subfolders for whatever they want.
-* **[Tools]()** - For sharing and itterating on general purpose code, drivers, and tools.
+* **[Books](https://github.com/cadet702/Embedded-STM32/tree/main/Books)** - For code directly related to chapers and exercises in the books we read.
+* **[Playground](https://github.com/cadet702/Embedded-STM32/tree/main/Playground)** - For individuals to create their own subfolders for whatever they want.
+* **[Tools](https://github.com/cadet702/Embedded-STM32/tree/main/Tools)** - For sharing and itterating on general purpose code, drivers, and tools.
 
 
 ## Contributing to Book Club Code
