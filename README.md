@@ -1,13 +1,13 @@
 # Welcome to the `Book Club Code` site!
 
-This is a place for the Embedded.fm book club to colaborate and learn together.
+This is a place for the Embedded.fm book club to collaborate and learn together.
 
 ## Repo Structure Guide
 
 ### Top-level folders currently include:
-* **[Books](https://github.com/cadet702/Embedded-STM32/tree/main/Books)** - For code directly related to chapers and exercises in the books we read.
+* **[Books](https://github.com/cadet702/Embedded-STM32/tree/main/Books)** - For code directly related to chapters and exercises in the books we read.
 * **[Playground](https://github.com/cadet702/Embedded-STM32/tree/main/Playground)** - For individuals to create their own subfolders for whatever they want.
-* **[Tools](https://github.com/cadet702/Embedded-STM32/tree/main/Tools)** - For sharing and itterating on general purpose code, drivers, and tools.
+* **[Tools](https://github.com/cadet702/Embedded-STM32/tree/main/Tools)** - For sharing and iterating on general purpose code, drivers, and tools.
 
 
 ## Contributing to Book Club Code
@@ -31,7 +31,7 @@ A GitHub **[Pull Request](https://github.com/cadet702/Embedded-STM32/pulls)** ("
 
 * [Into to GIT](https://levelup.gitconnected.com/git-doesnt-have-to-be-hard-e1e115be6668) - A great article helping GIT make slightly more sense.
 * [Embedded.fm](https://embedded.fm/) - Description needed...
-* [Keil](https://keil.com) - Place to get a variety of comilers.
+* [Keil](https://keil.com) - Place to get a variety of compilers.
 * [IAR](https://IAR.com) - Place to get the IAR compiler.
 
 ## Guides and Documentation
